@@ -1,0 +1,4 @@
+Run PreInterviewTest.
+
+You will see four options, from question1 to question4.
+Select the index of each question, follow the command, and check the answer.
